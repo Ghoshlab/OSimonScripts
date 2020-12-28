@@ -8,4 +8,4 @@ and
 
 "Minimum-Spanning Tree Methods for Characterization of Parkinsonian Dementia Using MEG Resting-State Data".
 
-These can be found in the subdirectories "ActivationScripts" and "ConnectivityScripts", respectively. 
+These can be found in the subdirectories "ActivationPaper" and "ConnectivityPaper", respectively. 
